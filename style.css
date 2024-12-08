@@ -190,7 +190,7 @@ button > span {color: var(--cyan300);}
 
 .footer {
     width: 100%;
-    background: linear-gradient(0deg, hsla(192, 37%, 48%, 0.8), hsla(192, 37%, 48%, 0.8)), url(assets/desktop/image-footer.jpg);
+    background: linear-gradient(0deg, hsla(192, 37%, 48%, 0.8), hsla(192, 37%, 48%, 0.8)), url(starter-code/assets/desktop/image-footer.jpg);
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
